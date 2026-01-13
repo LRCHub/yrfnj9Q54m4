@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Really Like You",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-01-13T20:36:44.594229Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Really Like You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/01_I_Really_Like_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Young Girl / I Really Like You",
+      "artist": "Pharrell Williams",
+      "has_synced": false,
+      "path": "select/02_Young_Girl___I_Really_Like_You_Pharrell_Williams.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Young Girl (feat. Jay-Z) \u0000 I Really Like You",
+      "artist": "Pharrell",
+      "has_synced": false,
+      "path": "select/03_Young_Girl_(feat._Jay-Z)_\u0000_I_Really_Like_You_Pharrell.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Really Like You - Liam Keegan Remix Radio Edit - Liam Keegan Remix Radio Edit",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/04_I_Really_Like_You_-_Liam_Keegan_Remix_Radio_Edit_-_Liam_Keegan_Remix_Radio_Edit_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Really Like You (Liam Keegan Radio Edit)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/05_I_Really_Like_You_(Liam_Keegan_Radio_Edit)_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young Girl / I Really Like You - Album Version (Edited)",
+      "artist": "Pharrell Williams",
+      "has_synced": true,
+      "path": "select/06_Young_Girl___I_Really_Like_You_-_Album_Version_(Edited)_Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Young Girl \u0000 I Really Like You (Feat. Jay-Z)",
+      "artist": "Pharrell",
+      "has_synced": true,
+      "path": "select/07_Young_Girl_\u0000_I_Really_Like_You_(Feat._Jay-Z)_Pharrell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Really Like You (Liam Keegan remix radio edit)",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/08_I_Really_Like_You_(Liam_Keegan_remix_radio_edit)_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Really Like You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/09_I_Really_Like_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Really Like You",
+      "artist": "Melissa Etheridge",
+      "has_synced": false,
+      "path": "select/10_I_Really_Like_You_Melissa_Etheridge.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Really Like You",
+      "artist": "Etheridge, Melissa",
+      "has_synced": false,
+      "path": "select/11_I_Really_Like_You_Etheridge,_Melissa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Really Like You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/12_I_Really_Like_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Really Like You",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_Really_Like_You_BABYMONSTER.txt"
+    }
+  ]
+}
